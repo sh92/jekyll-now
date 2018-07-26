@@ -4,12 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+### Q&A
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+If you want to have any questions, feel free to send an email!
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[sanghee.lee1992@gmail.com](mailto:sanghee.lee1992@gmail.com)
